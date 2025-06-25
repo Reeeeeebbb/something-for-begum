@@ -36,7 +36,7 @@ st.write("""
 ## Dear Jnuu ❤️
 
 1 YEAR TOGETHER MY LOVE! 🥰  
-Tum meri zindagi ki sabse khoobsurat feeling ho.  
+Ap meri zindagi ki sabse khoobsurat feeling hein.  
 
 Thank you for every smile, every memory, and every loving moment.  
 
